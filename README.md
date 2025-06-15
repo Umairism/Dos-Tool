@@ -22,7 +22,7 @@ Whistler is a command-line tool for simulating DDoS (Distributed Denial of Servi
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/dos-tool.git
+   git clone https://github.com/Umairism/Dos-Tool.git
    cd dos-tool
    ```
 
